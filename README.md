@@ -6,27 +6,12 @@
 </p>
 
 ---
-
 ## 🧑‍💻 About Me
 - 🤖 Working on **AI-powered real-world systems**
 - 👁️ Specialized in **Face Recognition & Computer Vision**
 - 🔊 Creator of **GreetAI – Smart AI Guest Welcoming System**
 - 🔌 Experienced with **IoT & Embedded Systems**
 - 🐧 Linux & Open-Source Enthusiast
-
----
-
-## 🚀 Featured Project
-### **GreetAI**
-> An AI-based smart system that detects a person using a camera and delivers a personalized welcome message using speech synthesis.
-
-**Features**
-- Face detection & recognition
-- Personalized voice greeting
-- Real-time processing
-- Offline AI execution
-
----
 
 ## 🧠 Skills & Technologies
 
