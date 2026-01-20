@@ -64,8 +64,8 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: yourmail@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+- 📧 Email: phapaletejas27@gmail.com
+- 💼 LinkedIn: (https://www.linkedin.com/in/tejas-phapale-49b8b932b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
