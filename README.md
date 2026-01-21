@@ -1,72 +1,83 @@
 <h1 align="center">Hi 👋, I'm Tejas Phapale</h1>
-<h3 align="center">AI | Computer Vision | IoT Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tejasphapale&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=AI+Engineer;Computer+Vision+Specialist;IoT+%26+Embedded+Systems+Developer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tejasphapale&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
-## 🧑‍💻 About Me
-- 🤖 Working on **AI-powered real-world systems**
-- 👁️ Specialized in **Face Recognition & Computer Vision**
-- 🔊 Creator of **GreetAI – Smart AI Guest Welcoming System**
-- 🔌 Experienced with **IoT & Embedded Systems**
-- 🐧 Linux & Open-Source Enthusiast
 
-## 🧠 Skills & Technologies
+## 👨‍💻 Professional Overview
 
-### Languages
+I am an **AI Engineer specializing in Computer Vision and Intelligent Systems**, with hands-on experience in **real-time face recognition**, **human–machine interaction**, and **IoT-driven automation**.  
+I focus on building **efficient, scalable, and production-ready AI solutions** using modern frameworks, embedded platforms, and Linux-based systems.
+
+---
+
+## 🧠 Technical Expertise
+
+### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin,js,c" />
 </p>
 
-### AI & Computer Vision
+### 🤖 Artificial Intelligence, Computer Vision & AI Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch,flask" />
 </p>
 
-### IoT & Embedded
+<p>
+  <img src="https://img.shields.io/badge/YOLO-Object%20Detection-blue" />
+  <img src="https://img.shields.io/badge/LLMs-LLaMA%20|%20RAG-success" />
+  <img src="https://img.shields.io/badge/TTS-gTTS-orange" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20Pipelines-Inference%20|%20Deployment-lightgrey" />
+  <img src="https://img.shields.io/badge/RAG-Vector%20Search%20%26%20Retrieval-blueviolet" />
+</p>
+
+### 🌐 Web & Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,react,html,css" />
+</p>
+
+### 📱 Mobile Application Development
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" />
+</p>
+
+### 🔌 IoT & Embedded Systems
 <p>
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 </p>
 
-### Tools & Platforms
+### 🛠️ Development Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejasphapale&show_icons=true&theme=tokyonight" />
-</p>
+## 📫 Professional Contact
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasphapale&theme=tokyonight" />
+<p>
+  <a href="mailto:phapaletejas27@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tejas-phapale-49b8b932b">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/tejasphapale">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: phapaletejas27@gmail.com
-- 💼 LinkedIn: (https://www.linkedin.com/in/tejas-phapale-49b8b932b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
----
-
-⭐ *Building intelligent systems that interact with humans*
-
-<!--
-**tejasphapale/tejasphapale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ <b>Driven by AI innovation, computer vision systems, and intelligent automation</b>
